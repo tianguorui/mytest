@@ -8,9 +8,7 @@ public class JavaFirst {
 	public void testHelloWrold() {
 		System.out.println("HelloWorld!");
 
-		System.out.println("aaaaaaaaaaaa");
-		System.out.println("aaaaa2aaaaa");
-		System.out.println("aaa33aa");
-
+		System.out.println("68");
+		
 	}
 }
